@@ -6,5 +6,7 @@ It will also scrape overview of scraped manga and will recommend manga which hav
 It will also scrape top latest news from the site
 
 Language Used: Python
+
 Libraries Used: BeautifulSoup, pandas,textblob
+
 Skills used: Web Scraping, NLP
