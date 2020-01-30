@@ -7,6 +7,6 @@ It will also scrape top latest news from the site
 
 Language Used: Python
 
-Libraries Used: BeautifulSoup, pandas,textblob
+Libraries Used: BeautifulSoup, pandas,textblob,tfidf etc
 
 Skills used: Web Scraping, NLP
